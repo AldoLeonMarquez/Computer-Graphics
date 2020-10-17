@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A4\SkeletonCode\build\CMakeFiles\a7b5329cbf5bbef1bc27f252b73addb2\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4C881FC4-FA10-340B-B5BB-3854141A2B1B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

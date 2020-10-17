@@ -1,0 +1,23 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.15/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/Platform/WindowsPaths.cmake
+C:/Users/Aldo Leon/Desktop/College/Junior/Fall 2019/CSCE 441/Hw/A6/SkeletonCode/CMakeLists.txt
+C:/Users/Aldo Leon/Desktop/College/Junior/Fall 2019/CSCE 441/Hw/A6/SkeletonCode/build/CMakeFiles/3.15.2/CMakeCCompiler.cmake
+C:/Users/Aldo Leon/Desktop/College/Junior/Fall 2019/CSCE 441/Hw/A6/SkeletonCode/build/CMakeFiles/3.15.2/CMakeCXXCompiler.cmake
+C:/Users/Aldo Leon/Desktop/College/Junior/Fall 2019/CSCE 441/Hw/A6/SkeletonCode/build/CMakeFiles/3.15.2/CMakeRCCompiler.cmake
+C:/Users/Aldo Leon/Desktop/College/Junior/Fall 2019/CSCE 441/Hw/A6/SkeletonCode/build/CMakeFiles/3.15.2/CMakeSystem.cmake

@@ -1,0 +1,15 @@
+﻿  Triangle.cpp
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A3\SkeletonCode\src\Triangle.cpp(113): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A3\SkeletonCode\src\Triangle.cpp(120): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A3\SkeletonCode\src\Triangle.cpp(127): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A3\SkeletonCode\src\Triangle.cpp(134): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A3\SkeletonCode\src\Triangle.cpp(143): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A3\SkeletonCode\src\Triangle.cpp(150): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A3\SkeletonCode\src\Triangle.cpp(157): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A3\SkeletonCode\src\Triangle.cpp(164): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A3\SkeletonCode\src\Triangle.cpp(174): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A3\SkeletonCode\src\Triangle.cpp(181): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A3\SkeletonCode\src\Triangle.cpp(188): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A3\SkeletonCode\src\Triangle.cpp(195): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A3\SkeletonCode\src\Triangle.cpp(202): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Assignment3.vcxproj -> C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A3\SkeletonCode\build\Debug\Assignment3.exe

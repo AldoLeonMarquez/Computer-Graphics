@@ -1,0 +1,104 @@
+﻿  Building Custom Rule C:/Users/Aldo Leon/Desktop/College/Junior/Fall 2019/CSCE 441/Hw/A2/SkeletonCode/CMakeLists.txt
+  MatrixStack.cpp
+  Program.cpp
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A2\SkeletonCode\src\Program.cpp(79): warning C4101: 'status': unreferenced local variable
+  main.cpp
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A2\SkeletonCode\src\main.cpp(69): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A2\SkeletonCode\src\main.cpp(264): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A2\SkeletonCode\src\main.cpp(265): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A2\SkeletonCode\src\main.cpp(290): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A2\SkeletonCode\src\main.cpp(291): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A2\SkeletonCode\src\main.cpp(294): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A2\SkeletonCode\src\main.cpp(295): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A2\SkeletonCode\src\main.cpp(298): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A2\SkeletonCode\src\main.cpp(299): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A2\SkeletonCode\src\main.cpp(302): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A2\SkeletonCode\src\main.cpp(303): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A2\SkeletonCode\src\main.cpp(310): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A2\SkeletonCode\src\main.cpp(311): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A2\SkeletonCode\src\main.cpp(342): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A2\SkeletonCode\src\main.cpp(349): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A2\SkeletonCode\src\main.cpp(357): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A2\SkeletonCode\src\main.cpp(364): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A2\SkeletonCode\src\main.cpp(372): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A2\SkeletonCode\src\main.cpp(379): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+Program.obj : warning LNK4049: locally defined symbol ___glewBindBuffer imported
+Program.obj : warning LNK4049: locally defined symbol ___glewBufferData imported
+Program.obj : warning LNK4049: locally defined symbol ___glewGenBuffers imported
+Program.obj : warning LNK4049: locally defined symbol ___glewAttachShader imported
+Program.obj : warning LNK4049: locally defined symbol ___glewCompileShader imported
+Program.obj : warning LNK4049: locally defined symbol ___glewCreateProgram imported
+Program.obj : warning LNK4049: locally defined symbol ___glewCreateShader imported
+Program.obj : warning LNK4049: locally defined symbol ___glewEnableVertexAttribArray imported
+Program.obj : warning LNK4049: locally defined symbol ___glewGetProgramiv imported
+Program.obj : warning LNK4049: locally defined symbol ___glewGetShaderInfoLog imported
+Program.obj : warning LNK4049: locally defined symbol ___glewGetShaderiv imported
+Program.obj : warning LNK4049: locally defined symbol ___glewGetUniformLocation imported
+Program.obj : warning LNK4049: locally defined symbol ___glewLinkProgram imported
+Program.obj : warning LNK4049: locally defined symbol ___glewShaderSource imported
+Program.obj : warning LNK4049: locally defined symbol ___glewUniform1f imported
+Program.obj : warning LNK4049: locally defined symbol ___glewUniform1i imported
+Program.obj : warning LNK4049: locally defined symbol ___glewUniform3f imported
+Program.obj : warning LNK4049: locally defined symbol ___glewUniformMatrix4fv imported
+Program.obj : warning LNK4049: locally defined symbol ___glewUseProgram imported
+Program.obj : warning LNK4049: locally defined symbol ___glewVertexAttribPointer imported
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A2\SkeletonCode\build\Debug\vc120.pdb'; linking object as if no debug info
+  Assignment2.vcxproj -> C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A2\SkeletonCode\build\Debug\Assignment2.exe

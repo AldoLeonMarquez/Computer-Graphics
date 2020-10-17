@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A6\SkeletonCode\src\main.cpp(90): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A6\SkeletonCode\src\main.cpp(102): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A6\SkeletonCode\src\main.cpp(103): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A6\SkeletonCode\src\main.cpp(169): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A6\SkeletonCode\src\main.cpp(271): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A6\SkeletonCode\src\main.cpp(299): warning C4018: '<': signed/unsigned mismatch
+  Assignment6.vcxproj -> C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A6\SkeletonCode\build\Debug\Assignment6.exe

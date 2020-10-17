@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A2\SkeletonCode\src\MatrixStack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A2\SkeletonCode\src\Program.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A2\SkeletonCode\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A2\SkeletonCode\src\MatrixStack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A2\SkeletonCode\src\Program.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A2\SkeletonCode\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C9C511F6-F139-3199-BFC0-B537DF3401DB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1FB8B572-F24A-3E0D-BF31-896C6B35EF12}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

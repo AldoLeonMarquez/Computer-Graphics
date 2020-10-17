@@ -1,0 +1,9 @@
+﻿  Camera.cpp
+c:\users\aldo leon\desktop\college\junior\fall 2019\csce 441\hw\a5\skeletoncode\src\Scene.h(19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A5\SkeletonCode\src\Camera.cpp(48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A5\SkeletonCode\src\Camera.cpp(51): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A5\SkeletonCode\src\Camera.cpp(86): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+c:\users\aldo leon\desktop\college\junior\fall 2019\csce 441\hw\a5\skeletoncode\src\Scene.h(19): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Assignment5.vcxproj -> C:\Users\Aldo Leon\Desktop\College\Junior\Fall 2019\CSCE 441\Hw\A5\SkeletonCode\build\Debug\Assignment5.exe
